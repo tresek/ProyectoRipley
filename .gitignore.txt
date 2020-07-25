@@ -1,0 +1,12 @@
+/output/
+/target/
+
+reports
+
+output
+
+imagenes
+
+.classpath
+
+.project
